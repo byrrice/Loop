@@ -1,4 +1,4 @@
 # Loop
-## Personal videogame project
+## Videogame Project
 
-This is the repository created that will have the game loop pushed to it at a later date when all the bugs are fixed and the game is fully complete. 
+This is the repository created that is a placeholder for game loop. This project was abandoned due to numerous bugs. The demo is playable at the website linked above.  
